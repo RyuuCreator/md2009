@@ -2,4 +2,4 @@
 
 Mopheuso Designer 2009
 
-tout premier site réaliser avec un tuto sur magasine. 
+Tout premier site réaliser avec un tuto sur magasine. 
